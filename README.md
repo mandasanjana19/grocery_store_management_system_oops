@@ -9,9 +9,9 @@ The program is divided into different classes that represent the functionalities
    
 2. **Staff Class**: The Staff class manages the store’s inventory and processes sales. It has functions to add new items to the inventory, adjust the quantities of existing items, and display stock information. It also handles the billing process when items are sold to customers. The Staff class keeps track of cost prices, selling prices, and item quantities.
    
-3. **Manager (Admin) Class**: The Manager class inherits from the Staff class and adds the ability to manage employees. Admins can add new staff members, view a list of all employees, and calculate the store’s financial standing by determining the net profit and expenditure. The Manager class also allows calculating employee leaves and adjusting their salaries accordingly.
+3. **Manager/Admin Class**: The Manager class inherits from the Staff class and adds the ability to manage employees. Admins can add new staff members, view a list of all employees, and calculate the store’s financial standing by determining the net profit and expenditure. The Manager class also allows calculating employee leaves and adjusting their salaries accordingly.
 
-### How the Program Works
+### How will the Program Run
 
 The program operates through a **text-based menu system**. When the program starts, users are first prompted to log in. Based on their choice, they are directed to either the Admin menu or the Staff menu, where they can perform different operations.
 
