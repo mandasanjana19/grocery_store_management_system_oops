@@ -81,4 +81,4 @@ Within the **Scan Goods** section, the staff has more specific options to manage
 4. **Billing**: When a sale occurs, the Staff member can enter the product name, the quantity purchased, and the system will calculate the bill and update the stock.
 
 ### Summary
-This program provides a simple, functional way for a grocery store to manage its employees, inventory, and sales. It allows both the Admin and the Staff to perform different tasks, from managing stock and calculating sales to handling leave requests and employee salaries. The use of classes and functions makes the code organized and easy to understand.
+This program provides a simple, functional way for a grocery store to manage its employees, inventory, and sales. It allows both the Admin and the Staff to perform different tasks, from managing stock and calculating sales to handling leave requests and employee salaries.
