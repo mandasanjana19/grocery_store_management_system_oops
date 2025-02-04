@@ -60,7 +60,7 @@ Within the **Scan Goods** section, the staff has more specific options to manage
 4. **Show Stock**: Displays a list of all items in the inventory with their quantities and prices.
 5. **Back to Staff Menu**: Returns to the main Staff menu.
 
-### Key Functionalities and Flow
+### Functionalities and Flow
 
 - **Admin Features**: The Admin has full control over the employee management and store finances. They can add new staff, view the list of employees, and calculate the store’s profit and net income. The Admin’s responsibilities include overseeing the overall business operations, making sure the store runs smoothly, and ensuring that employees are paid appropriately after leaves are deducted.
   
@@ -70,7 +70,7 @@ Within the **Scan Goods** section, the staff has more specific options to manage
 
 - **Financial Management**: The Admin can view the **Net Expenditure** by calculating the profit made from sales, deducting the costs of goods sold, and subtracting the total staff salaries. This helps to evaluate the overall profitability of the store.
 
-### Example Walkthrough
+### Example
 
 1. **Login Screen**: The user is asked to select between Admin or Staff login. To log in as Admin, they would need to input the correct credentials: **Username: grocery** and **Password: 1234**.
 
